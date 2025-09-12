@@ -1,0 +1,24 @@
+{
+  "name": "music-link-bot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/k-one-o-two/music-link-bot#readme",
+  "bugs": {
+    "url": "https://github.com/k-one-o-two/music-link-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-one-o-two/music-link-bot.git"
+  },
+  "license": "ISC",
+  "author": "k102",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-html-parser": "^7.0.1",
+    "ytmusic-api": "^5.3.0"
+  }
+}
